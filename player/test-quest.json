@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mission 1",
+    "missionStartMessage": "Welcome to Mission 1",
+    "task": {
+      "statement": "task 1",
+      "clue": "clue 1",
+      "correctAnswer": "answer 1"
+    }
+  },
+
+  {
+    "name": "Mission 2",
+    "missionStartMessage": "Welcome to Mission 2",
+    "task": {
+      "statement": "task 2",
+      "clue": "clue 2",
+      "correctAnswer": "answer 2"
+    }
+  }
+]
